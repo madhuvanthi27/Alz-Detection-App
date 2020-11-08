@@ -25,5 +25,5 @@ quizzes to be solved and completed. There are different stages in
 Alzheimer’s, the stage can also be identified using this application. With the help of simple games, questionnaire and quiz and analyzing the
 scores of the games and the answers given by the person to those questions,
 Alzheimer’s is detected.
-
+Youtube link for the demo of the app: https://www.youtube.com/watch?v=wEf0pJaRauw
 
